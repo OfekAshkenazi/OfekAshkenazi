@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ofek Ashkenazi</h1>
 <h3 align="center">A passionate fullstack junior developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ofekashkenazi" alt="ofekashkenazi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ofekashkenazi" alt="ofekashkenazi" /></a> </p>
 
 - 🔭 I’m currently working on [Mister_coin](https://ofekashkenazi.github.io/Mister_coin/)
 
