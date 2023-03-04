@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ofek Ashkenazi</h1>
-<h3 align="center">A passionate fullstack junior developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ofekashkenazi" alt="ofekashkenazi" /></a> </p>
 
-- 🔭 I’m currently working on [Mister_coin](https://ofekashkenazi.github.io/Mister_coin/)
+- 🔭 I’m currently working on [Password-genereator](https://ofekashkenazi.github.io/Password-generator/)
 
-- 🌱 I’m currently learning **Angular and typescript**
+- 🌱 I’m currently learning **Styling inputs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OfekAshkenazi?tab=repositories](https://github.com/OfekAshkenazi?tab=repositories)
 
