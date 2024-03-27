@@ -5,15 +5,13 @@
 
 - 🔭 I’m currently working on connect four game
 
-- 🌱 I’m currently learning **socket.io**
+- 🌱 I’m currently learning **Three.js (3d library)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OfekAshkenazi?tab=repositories](https://github.com/OfekAshkenazi?tab=repositories)
 
-- 💬 Ask me about **my airbnb copy Airpnd**
+- 💬 Ask me about **my airpnd, chat-app or trello clone**
 
 - 📫 How to reach me **ofeka18@gmail.com**
-
-- ⚡ Fun fact **i love to drink chokocoffy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
